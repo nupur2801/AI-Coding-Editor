@@ -17,3 +17,4 @@ for frontend i want to use ink-react basically i want a terminal based window wh
 # generate codebase in the src folder C:\Users\Nupur\Desktop\coding_edtor\src and ii want o use nodejs and react do not use python
 
 and all the trash will go into the trash folder keep everything super organize, create everything into multiple files like config.ts connector.ts etc follow the best coding practice and make it work
+
